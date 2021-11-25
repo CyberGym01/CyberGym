@@ -18,7 +18,7 @@ data-interval="7000">
     background-repeat: no-repeat;
     background-size: cover; height:100%;">
      <div class="carousel-caption text-center">
-         <h2> WITNESS THE FITNESS </h2>
+         <h2> luv u <3 </h2>
          <p> Physical fitness and sports culture are food for the mind and body, 
              as physical fitness symbolizes the extent of human health and vitality and his ability to exercise correctly, 
              while sports culture is the amount of information that a person has about sports the correct behavior towards sports.</p>
